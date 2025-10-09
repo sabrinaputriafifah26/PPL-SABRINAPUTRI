@@ -1,6 +1,6 @@
 <?php
 // File: test_age.php bagus
-require_once "Validator.php";
+require_once "validator.php";
 
 // Test Case 1: umur valid
 try {

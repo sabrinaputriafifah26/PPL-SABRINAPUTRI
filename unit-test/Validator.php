@@ -1,5 +1,5 @@
 <?php
-// file; Validator.php
+// file; validator.php
 function validateAge($age){
     if (!is_numeric($age)){
         throw new InvalidArgumentException("Umur harus berupa angka");
